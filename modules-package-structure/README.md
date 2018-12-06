@@ -1,0 +1,5 @@
+- Use modules for our dependencies
+- Build a REST API
+- Two endpoints: 
+    - `GET /{key}`
+    - `PUT /{key}` (value of the key is in the body)
